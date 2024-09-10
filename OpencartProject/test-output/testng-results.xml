@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-10T12:25:12 IST" name="Default suite" finished-at="2024-09-10T12:25:20 IST" duration-ms="8188">
+    <groups>
+    </groups>
+    <test started-at="2024-09-10T12:25:12 IST" name="Default test" finished-at="2024-09-10T12:25:20 IST" duration-ms="8188">
+      <class name="com.opencart.testleyer.LoginTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.opencart.testleyer.LoginTest@661972b0]" started-at="2024-09-10T12:25:12 IST" name="start" finished-at="2024-09-10T12:25:12 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testleyer.LoginTest@661972b0]" started-at="2024-09-10T12:25:12 IST" name="setUp" finished-at="2024-09-10T12:25:18 IST" duration-ms="6495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyRegisterWithValidDetails()[pri:0, instance:com.opencart.testleyer.LoginTest@661972b0]" started-at="2024-09-10T12:25:18 IST" name="VerifyRegisterWithValidDetails" finished-at="2024-09-10T12:25:20 IST" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterWithValidDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testleyer.LoginTest@661972b0]" started-at="2024-09-10T12:25:20 IST" name="tearDown" finished-at="2024-09-10T12:25:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.opencart.testleyer.LoginTest@661972b0]" started-at="2024-09-10T12:25:20 IST" name="finish" finished-at="2024-09-10T12:25:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.opencart.testleyer.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
